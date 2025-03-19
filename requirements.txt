@@ -1,2 +1,14 @@
 # Python version: 3.8
+urllib3==2.2.2
 setuptools==70.0.0
+idna==3.7
+requests==2.32.2
+msrest==0.6.21
+msrestazure==0.6.4
+azure-mgmt-resource==10.2.0
+azure-mgmt-compute==17.0.0
+azure-mgmt-network==16.0.0
+azure-mgmt-authorization==0.61.0
+azure-mgmt-msi==1.0.0
+azure-identity==1.16.1
+azure-storage-blob==12.13.0
